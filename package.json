@@ -1,0 +1,31 @@
+{
+  "name": "etna-bot",
+  "version": "1.0.0",
+  "description": "a bot that does svn stuff so my school's bot (looking at my svn activities) thinks I'm working",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boehm-s/etna-bot.git"
+  },
+  "keywords": [
+    "fake",
+    "coding",
+    "bot",
+    "school",
+    "bot",
+    "svn",
+    "bot",
+    "svn",
+    "coding",
+    "bot"
+  ],
+  "author": "Steven BOEHM <boehm_s@seed-up.io> (https://stackoverflow.com/users/4756304/boehm-s?tab=profile)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boehm-s/etna-bot/issues"
+  },
+  "homepage": "https://github.com/boehm-s/etna-bot#readme"
+}
